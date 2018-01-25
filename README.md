@@ -1,9 +1,7 @@
 # MY Awsome App
 ## MY Awsome App
 ### MY Awsome App
-#### MY Awsome App
 ##### MY Awsome App
-
 How Do you run my app: 
 * First download Xcode
 * Run pos install
@@ -11,7 +9,6 @@ How Do you run my app:
 Run app
 
 [Homepage](http://google.com/)
-
 A Table
 |Cool podcastes|Summary|
 |:--------|:-----------|
@@ -24,8 +21,6 @@ A Table
   window = UIWindow...
   
   ```
-
-
 <p align="center">
 <img src="https://www.gettyimages.com/resources/embed">
   
