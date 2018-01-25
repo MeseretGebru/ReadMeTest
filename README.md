@@ -21,6 +21,7 @@ A Table
   window = UIWindow...
   
   ```
+  <details>
 <p align="center">
 <img src="http://www.petsworld.in/blog/wp-content/uploads/2014/09/adorable-cat.jpg">
   
