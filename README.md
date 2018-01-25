@@ -22,7 +22,7 @@ A Table
   
   ```
 <p align="center">
-<img src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwisvt3H2PPYAhXMMd8KHQy2Da8QjRx6BAgAEAY&url=https%3A%2F%2Fwww.petsworld.in%2Fblog%2Fcat-pictures-funny-cute-adorable-and-all-time-favorite-cat-images.html&psig=AOvVaw31DmkwDR03-v1yWWXVGdo4&ust=1516989541823308">
+<img src="http://www.petsworld.in/blog/wp-content/uploads/2014/09/adorable-cat.jpg">
   
   
   
